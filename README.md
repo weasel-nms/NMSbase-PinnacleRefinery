@@ -5,7 +5,7 @@ A raised structure tolerant of uneven terrain providing 24 large refiners, 3 lan
 571
 
 ### Positioning:
-Pretty much anything that isn't too steep
+1/4 wall off ground; space with terrain modifier as needed
 
 ### Terrain Assumptions:
 6 multilevel pillars allow for uneven terrain, but of course works just fine on flat terrain as well. Original design was placed on a large hillhtop.
