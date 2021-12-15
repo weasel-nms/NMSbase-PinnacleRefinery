@@ -1,4 +1,6 @@
 ![Pinnacle Refinery](https://raw.githubusercontent.com/weasel-nms/NMSbase-PinnacleRefinery/main/PinnacleRefinery.nmsbase.jpg)
+## Instructions for importing this base are [here](https://github.com/weasel-nms/NMSbase--Instructions)
+
 ### Description:
 A raised structure tolerant of uneven terrain providing 24 large refiners, 3 landing pads, and 3 biodomes.
 	
